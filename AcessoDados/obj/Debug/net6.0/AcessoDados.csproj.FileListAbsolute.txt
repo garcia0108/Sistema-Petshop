@@ -1,0 +1,12 @@
+D:\PrjPetShop_2\AcessoDados\bin\Debug\net6.0\AcessoDados.deps.json
+D:\PrjPetShop_2\AcessoDados\bin\Debug\net6.0\AcessoDados.dll
+D:\PrjPetShop_2\AcessoDados\bin\Debug\net6.0\AcessoDados.pdb
+D:\PrjPetShop_2\AcessoDados\obj\Debug\net6.0\AcessoDados.csproj.AssemblyReference.cache
+D:\PrjPetShop_2\AcessoDados\obj\Debug\net6.0\AcessoDados.GeneratedMSBuildEditorConfig.editorconfig
+D:\PrjPetShop_2\AcessoDados\obj\Debug\net6.0\AcessoDados.AssemblyInfoInputs.cache
+D:\PrjPetShop_2\AcessoDados\obj\Debug\net6.0\AcessoDados.AssemblyInfo.cs
+D:\PrjPetShop_2\AcessoDados\obj\Debug\net6.0\AcessoDados.csproj.CoreCompileInputs.cache
+D:\PrjPetShop_2\AcessoDados\obj\Debug\net6.0\AcessoDados.dll
+D:\PrjPetShop_2\AcessoDados\obj\Debug\net6.0\refint\AcessoDados.dll
+D:\PrjPetShop_2\AcessoDados\obj\Debug\net6.0\AcessoDados.pdb
+D:\PrjPetShop_2\AcessoDados\obj\Debug\net6.0\ref\AcessoDados.dll

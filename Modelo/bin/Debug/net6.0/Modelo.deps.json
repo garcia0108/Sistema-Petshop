@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Modelo/1.0.0": {
+        "dependencies": {
+          "AcessoDados": "1.0.0"
+        },
+        "runtime": {
+          "Modelo.dll": {}
+        }
+      },
+      "AcessoDados/1.0.0": {
+        "runtime": {
+          "AcessoDados.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Modelo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AcessoDados/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

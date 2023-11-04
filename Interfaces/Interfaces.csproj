@@ -1,0 +1,48 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmCadAgendamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmCadAnimal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmCadCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmCadRaca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmCadServico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmCadUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmDetalehsAgendamentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmEntLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmPesquisaAnimal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmPesquisarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmSplash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+
+</Project>
